@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "txzdrd2RrHJM+MOfrAr6J0kxxe+EqHb7hjLG4JWXp7WWjdUv5bgLanldU3+Cnn3uPI5HlSM9F/tdwIrZjNGBmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diksha\\source\\repos\\CarouselSample\\CarouselSample\\CarouselSample.iOS\\CarouselSample.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diksha\\.nuget\\packages\\syncfusion.licensing\\18.1.0.57\\syncfusion.licensing.18.1.0.57.nupkg.sha512",
+    "C:\\Users\\diksha\\.nuget\\packages\\syncfusion.xamarin.core\\18.1.0.57\\syncfusion.xamarin.core.18.1.0.57.nupkg.sha512",
+    "C:\\Users\\diksha\\.nuget\\packages\\syncfusion.xamarin.sfcarousel\\18.1.0.57\\syncfusion.xamarin.sfcarousel.18.1.0.57.nupkg.sha512",
+    "C:\\Users\\diksha\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

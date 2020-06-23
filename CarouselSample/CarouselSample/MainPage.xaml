@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:CarouselView.FormsPlugin.Abstractions;assembly=CarouselView.FormsPlugin.Abstractions"
+             x:Class="CarouselSample.MainPage">
+
+
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Orientation="Vertical">
+                <Frame Margin="0" Padding="0" HasShadow="True">
+                    <Grid ColumnSpacing="0" RowSpacing="0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="AUTO" />
+                            <RowDefinition Height="AUTO" />
+                            <RowDefinition Height="AUTO" />
+                            <!--<RowDefinition Height="AUTO" />-->
+                        </Grid.RowDefinitions>
+                        <!--  header background  -->
+                        <!--<Image   Source="{Binding WallPic,Converter={StaticResource ImageSourceConverter}}" />-->
+                        <controls:CarouselViewControl HeightRequest="150"  Position="{Binding Position}" ItemsSource="{Binding ImageCollection}">
+                            <controls:CarouselViewControl.ItemTemplate>
+                                <DataTemplate>
+                                    <Image HeightRequest="150" Aspect="AspectFill" Source="{Binding Image}"></Image>
+                                </DataTemplate>
+                            </controls:CarouselViewControl.ItemTemplate>
+                        </controls:CarouselViewControl>
+                    </Grid>
+                </Frame>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

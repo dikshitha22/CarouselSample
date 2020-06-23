@@ -1,0 +1,13 @@
+C:\Users\diksha\source\repos\CarouselSample\CarouselSample\CarouselSample\bin\Debug\netstandard2.0\CarouselSample.deps.json
+C:\Users\diksha\source\repos\CarouselSample\CarouselSample\CarouselSample\bin\Debug\netstandard2.0\CarouselSample.dll
+C:\Users\diksha\source\repos\CarouselSample\CarouselSample\CarouselSample\bin\Debug\netstandard2.0\ref\CarouselSample.dll
+C:\Users\diksha\source\repos\CarouselSample\CarouselSample\CarouselSample\bin\Debug\netstandard2.0\CarouselSample.pdb
+C:\Users\diksha\source\repos\CarouselSample\CarouselSample\CarouselSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\diksha\source\repos\CarouselSample\CarouselSample\CarouselSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\diksha\source\repos\CarouselSample\CarouselSample\CarouselSample\obj\Debug\netstandard2.0\CarouselSample.AssemblyInfoInputs.cache
+C:\Users\diksha\source\repos\CarouselSample\CarouselSample\CarouselSample\obj\Debug\netstandard2.0\CarouselSample.AssemblyInfo.cs
+C:\Users\diksha\source\repos\CarouselSample\CarouselSample\CarouselSample\obj\Debug\netstandard2.0\CarouselSample.dll
+C:\Users\diksha\source\repos\CarouselSample\CarouselSample\CarouselSample\obj\Debug\netstandard2.0\ref\CarouselSample.dll
+C:\Users\diksha\source\repos\CarouselSample\CarouselSample\CarouselSample\obj\Debug\netstandard2.0\CarouselSample.pdb
+C:\Users\diksha\source\repos\CarouselSample\CarouselSample\CarouselSample\obj\Debug\netstandard2.0\CarouselSample.csprojAssemblyReference.cache
+C:\Users\diksha\source\repos\CarouselSample\CarouselSample\CarouselSample\obj\Debug\netstandard2.0\CarouselSample.csproj.CoreCompileInputs.cache
